@@ -1,0 +1,36 @@
+div.table {
+  display: table;
+}
+
+div.th {
+  display: table-cell;
+  width  : 200px;
+  text-align: center;
+  background: #DDDDDD;
+  border: 1px solid black;
+  padding: 3px;
+  float: left;
+}
+
+div.tr {
+  display: table-row;
+}
+
+div.td {
+  display: table-cell;
+  width  : 200px;
+  background:#FFFFFF;
+  border: 0.5px grey solid;
+  padding: 3px;
+  float: left;
+  text-align: center;
+}
+
+div.btn-group {
+	float: left;
+	margin: 15px;
+}
+
+#main_content {
+	width: 1200px;
+}
